@@ -1,2 +1,2 @@
-# colpal-cd-testlabs
-testlabs for cd testing
+# colpal-ci-labs
+ci learning labs colpal
